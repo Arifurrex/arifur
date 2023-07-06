@@ -9,7 +9,7 @@ import Work from "./components/Work";
 function App() {
   return (
     <>
-      <div className="overflow-hidden bg-current bg-slate-950 bg-no-repeat">
+      <div className="overflow-hidden bg-slate-950 bg-site bg-no-repeat">
         <Header />
         <Banner />
         <Nav />
